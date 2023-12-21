@@ -58,7 +58,7 @@ Install other dependencies for building the code:
 sudo apt install ninja-build cmake meson libconfig++-dev
 ```
 
-Navigate to the cloned folder folder and run:
+Navigate to the cloned folder and run:
 
 ```
 meson build
